@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Morales</h1>
-<h3 align="center">Tech enthusiast, I entered IT in 2018 and coding in 2020. Beyond technical skills, my strength lies in exceptional communication. Easy-going, extroverted, and driven, I believe success is about goodwill and getting things done. If it can be done, count me in.</h3>
+<h3 align="center">24 year old tech enthusiast, I entered IT in 2018 and coding in 2020. Beyond technical skills, my strength lies in exceptional communication. Easy-going, extroverted, and driven, I believe success is about goodwill and getting things done. If it can be done, count me in.</h3>
 
 - 🔭 I’m currently working on **Talan Spain**
 
